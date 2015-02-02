@@ -4,6 +4,7 @@ NULL =
 SUBDIRS = \
 	gee \
 	ccode \
+	shotodolplug \
 	vala \
 	codegen \
 	compiler \

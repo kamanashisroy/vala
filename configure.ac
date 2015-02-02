@@ -91,6 +91,7 @@ AC_CONFIG_FILES([Makefile
            libvala.pc
            gee/Makefile
            ccode/Makefile
+           shotodolplug/Makefile
            vala/Makefile
            codegen/Makefile
            compiler/Makefile
