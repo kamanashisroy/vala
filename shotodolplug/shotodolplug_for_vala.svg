@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -353,7 +353,7 @@
      id="namedview4146"
      showgrid="false"
      inkscape:zoom="0.26722057"
-     inkscape:cx="1001.6412"
+     inkscape:cx="945.5078"
      inkscape:cy="470.04154"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -569,7 +569,7 @@ polygon {
      transform="translate(-270,680)"
      style="stroke:#000000">
     <path
-       d="m 309.66926,27.077484 a 15.436685,14.968906 0 1 1 -30.87337,0 15.436685,14.968906 0 1 1 30.87337,0 z"
+       d="m 309.66926,27.077484 c 0,8.267099 -6.91124,14.968907 -15.43669,14.968907 -8.52544,0 -15.43668,-6.701808 -15.43668,-14.968907 0,-8.267099 6.91124,-14.968906 15.43668,-14.968906 8.52545,0 15.43669,6.701807 15.43669,14.968906 z"
        sodipodi:ry="14.968906"
        sodipodi:rx="15.436685"
        sodipodi:cy="27.077484"
@@ -880,7 +880,7 @@ polygon {
      transform="translate(-647.8557,675.01822)"
      style="stroke:#000000">
     <path
-       d="m 309.66926,27.077484 a 15.436685,14.968906 0 1 1 -30.87337,0 15.436685,14.968906 0 1 1 30.87337,0 z"
+       d="m 309.66926,27.077484 c 0,8.267099 -6.91124,14.968907 -15.43669,14.968907 -8.52544,0 -15.43668,-6.701808 -15.43668,-14.968907 0,-8.267099 6.91124,-14.968906 15.43668,-14.968906 8.52545,0 15.43669,6.701807 15.43669,14.968906 z"
        sodipodi:ry="14.968906"
        sodipodi:rx="15.436685"
        sodipodi:cy="27.077484"
@@ -1028,20 +1028,15 @@ polygon {
   <text
      xml:space="preserve"
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-     x="588.9375"
-     y="1140.2002"
+     x="628.9375"
+     y="1162.2002"
      id="text3661-0-8-4-9-2"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       id="tspan3663-8-0-8-9-2"
        style="font-size:40px;stroke:#000000"
-       x="588.9375"
-       y="1140.2002">     core</tspan><tspan
-       sodipodi:role="line"
-       style="font-size:40px;stroke:#000000"
-       x="588.9375"
-       y="1190.2002"
-       id="tspan11274-3">statements</tspan></text>
+       x="628.9375"
+       y="1162.2002"
+       id="tspan11274-3">with {}</tspan></text>
   <polygon
      points="290,152.5 285,150 290,147.5 "
      style="fill:#000000;stroke:none"
@@ -1380,4 +1375,28 @@ polygon {
        d="m 612.1077,363.2615 190.5231,0"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+     x="269.82013"
+     y="673.41907"
+     id="text4061-7"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4063-8"
+       style="stroke:#000000"
+       x="269.82013"
+       y="673.41907">vala -profile=aroop ..</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+     x="792.52222"
+     y="660.19238"
+     id="text4061-2"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4063-6"
+       style="stroke:#000000"
+       x="792.52222"
+       y="660.19238">3. codegen/profile</tspan></text>
 </svg>
