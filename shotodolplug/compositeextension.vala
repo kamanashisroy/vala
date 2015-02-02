@@ -5,6 +5,7 @@
  */
 
 using GLib;
+using Vala;
 
 /** \addtogroup Plugin
  *  @{
